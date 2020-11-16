@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CovidHeatMap</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Sam Houston State University</string>
+    <string name="nav_header_subtitle">Software Engineering | Fall 2020</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Navigation Drawer Titles -->
+    <string name="menu_map">Heatmap</string>
+    <string name="menu_testing">Testing Centers</string>
+    <string name="menu_support">Support</string>
+    <string name="title_activity_settings">Heatmap Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Heatmap</string>
+    <string name="sync_header">Support</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Turn on Markers</string>
+</resources>

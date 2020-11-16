@@ -1,0 +1,32 @@
+[
+  {
+    "CityState" : "Huntsville, Texas",
+    "Address" : "[Huntsville Address Here]",
+    "HourOpen" : 8,
+    "HourClose": 17
+  },
+  {
+    "CityState" : "College Station, Texas",
+    "Address" : "[College Station Address Here]",
+    "HourOpen" : 8,
+    "HourClose": 17
+  },
+  {
+    "CityState" : "Bryan, Texas",
+    "Address" : "[Bryan Address Here]",
+    "HourOpen" : 7,
+    "HourClose": 17
+  },
+  {
+    "CityState" : "Houston, Texas",
+    "Address" : "[Houston Address Here]",
+    "HourOpen" : 10,
+    "HourClose": 15
+  },
+  {
+    "CityState" : "Madisonville, Texas",
+    "Address" : "[Madisonville Address Here]",
+    "HourOpen" : 12,
+    "HourClose": 17
+  }
+]

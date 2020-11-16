@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.covidheatmap.ui.heatmap.MapFragment"
+        android:label="@string/menu_map"
+        tools:layout="@layout/fragment_map" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.covidheatmap.ui.testing_centers.TestingCenterFragment"
+        android:label="@string/menu_testing"
+        tools:layout="@layout/fragment_testing_centers" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.covidheatmap.ui.support.SupportFragment"
+        android:label="@string/menu_support"
+        tools:layout="@layout/fragment_support" />
+</navigation>
